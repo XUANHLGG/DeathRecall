@@ -1,0 +1,24 @@
+# Gradle files
+.gradle/
+build/
+
+# IDE files
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+bin/
+.settings/
+.classpath
+.project
+
+# Forge/Minecraft specific
+run/
+logs/
+debug/
+*.log
+
+# System files
+.DS_Store
+Thumbs.db
